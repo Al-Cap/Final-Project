@@ -25,7 +25,7 @@ Satellites are a major importance to countries and especially people. Satellites
 - Notebook
 	+ Getting Data.ipynb : Gets the data from an online source
 	+ EDA.ipynb : Explore data
-	+ [Report.ipynb](https://github.com/Al-Cap/Final-Project/blob/main/code/Report.ipynb) : This is the notebook submitted as part of the DATA601 Final Project.
+	+ [Report.ipynb](https://github.com/Al-Cap/Final-Project/blob/main/code/report.ipynb) : This is the notebook submitted as part of the DATA601 Final Project.
 
 - Extra:
 	+ Yanl filr for cloning the envirnement and reproduciblility.
