@@ -12,8 +12,8 @@ Scenario:
 
 Goals in this project is to determine how long the life span of a satellite.
 
-- Train a model with prediction mean squared error is less than 35K.
-- Give an confidencee interval for each prediction.
+- Train a model with prediction mean squared error is less than 35K. (need to change)
+- Give an confidencee interval for each prediction. (need to change)
 
 # Motivation & Background
 
