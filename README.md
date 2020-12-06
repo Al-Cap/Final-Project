@@ -1,4 +1,4 @@
-# Title: Life Span of Satellites
+# Life Span of Satellites
 
 This project will implement the topics learned in DATA601
 
@@ -23,15 +23,14 @@ Satellites are a major importance to countries and especially people. Satellites
 
 - [Data](https://github.com/Al-Cap/Final-Project/blob/main/data): Includes data, both original and modified
 - Notebook
-	+ Getting Data.ipynb : Gets the data from an online source
-	+ EDA.ipynb : Explore data
-	+ [Report.ipynb](https://github.com/Al-Cap/Final-Project/blob/main/code/report.ipynb) : This is the notebook submitted as part of the DATA601 Final Project.
-
+	+ [Getting Data](https://github.com/Al-Cap/Final-Project/blob/main/code/Retrieving%2C%20Cleaning%20and%20Modeling.ipynb) : Gets the data from an online source along with cleaning and modeling it.
+	+ [EDA](https://github.com/Al-Cap/Final-Project/blob/main/code/EDA.ipynb) : Explores the data.
+	+ [Report](https://github.com/Al-Cap/Final-Project/blob/main/code/Report.ipynb) : This is the notebook submitted as part of the DATA601 Final Project.
 - Extra:
-	+ Yanl filr for cloning the envirnement and reproduciblility.
+	+ [Utils](https://github.com/Al-Cap/Final-Project/blob/main/code/utils.py)	: Function used for regression graph. 
 
 # Data
-This is a dataset obtained from [https://www.ucsusa.org/resources/satellite-database](https://www.ucsusa.org/resources/satellite-database). The dataset contants 67 columns and 2790 indices. The original data set was modified and cut down to 11 columns and 1124 indices to contain only relevant data.
+This is a dataset obtained from [https://www.ucsusa.org/resources/satellite-database](https://www.ucsusa.org/resources/satellite-database) downloaded into am excel file. The dataset contants 67 columns and 2790 indices. The original data set was modified and cut down to 11 columns and 1124 indices to contain only relevant data. An addition column was added to hold values gotten from preexisting column. Modified date saved as a csv.
 
 # Modeling
 
@@ -42,16 +41,16 @@ This is a dataset obtained from [https://www.ucsusa.org/resources/satellite-data
 
 # Project Info
 <pre>
-	Contributor	: <a href=https://github.com/Al-Cap>Alexander Caporale</a>>
+Contributor	: <a href=https://github.com/Al-Cap>Alexander Caporale</a>
 </pre>
 
 <pre>
-	Language	: Python 3 v.
-	Tools/IDE 	: Anadaconda v. , Jupyter Notebook v.
-	Libraries	: pandas v. , matplotlib v. , numpy v. , statsmodels v.
+Language	: Python v. 3.8.3
+Tools/IDE 	: Anadaconda v. , Jupyter Notebook v.
+Libraries	: pandas v. , matplotlib v. , numpy v. , statsmodels v.
 </pre>
 
 <pre>
-	Duration	: December 2020
-	Last Update	: 12.08.2020
+Duration	: December 2020
+Last Update	: 12.08.2020
 </pre>
