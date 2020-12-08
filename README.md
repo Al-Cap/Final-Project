@@ -54,7 +54,7 @@ The second regression model outputs a high R-squared being close to 1 which is f
 
 # Future
 
-This project can be improved upon in the future by adding additional parameters to determine the linear regression of the life span. These additional parameters can be anything from orbit of the satellite to the materials or manufacturing processes of the satellite.
+This project can be improved upon in the future by adding additional parameters to determine the linear regression of the life span. These additional parameters can be anything from orbit of the satellite to the materials or manufacturing processes of the satellite. An example would [AIM](https://en.wikipedia.org/wiki/Aeronomy_of_Ice_in_the_Mesosphere) (Aeronomy of Ice in the Mesosphere) was original launched in 2007. AIM's expected lifetime was 2 years, however, it was extended and is still operational today.
 
 # Project Info
 <pre>
