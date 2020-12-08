@@ -34,7 +34,7 @@ Satellites are a major importance to countries and especially people. Satellites
 
 # Data
 
-This is a dataset obtained from [https://www.ucsusa.org/resources/satellite-database](https://www.ucsusa.org/resources/satellite-database) downloaded into an excel file. The dataset contains 67 columns and 2790 indices. The original data set was modified and cut down to 11 columns and 1124 indices to contain only relevant data. An addition column was added to hold values gotten from preexisting column. Modified date saved as a csv.
+This is a dataset obtained from [https://www.ucsusa.org/resources/satellite-database](https://www.ucsusa.org/resources/satellite-database) downloaded into an excel file on November 23rd, 2020. Dataset was last updated on the site on August 1, 2020. The dataset contains 67 columns and 2,790 indices. The original data set was modified and cut down to 11 columns and 1,124 indices to contain only relevant data. An addition column was added to hold values gotten from preexisting column. Modified date saved as a csv.
 
 # Modeling
 
@@ -52,7 +52,7 @@ Contributor	: <a href=https://github.com/Al-Cap>Alexander Caporale</a>
 <pre>
 Language	: Python v. 3.8.3
 Tools/IDE 	: Anaconda v. 2020.07, Jupyter Notebook v. 6.0.3
-Libraries	: pandas v. 1.0.5, matplotlib v. 3.2.2, numpy v. 1.18.5, statsmodels v. 0.11.1
+Libraries	: pandas v. 1.0.5, matplotlib v. 3.2.2, numpy v. 1.18.5, statsmodels v. 0.11.1, utils v. 1.0.1
 </pre>
 
 <pre>
