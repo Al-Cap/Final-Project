@@ -19,18 +19,18 @@ Satellites are a major importance to countries and especially people. Satellites
 
 # Table of Contents
 
-- [Data](https://github.com/Al-Cap/Final-Project/blob/main/data)	: Includes data, both original and modified
+- [Data](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/data)	: Includes data, both original and modified
 - Notebook
-	+ [Getting Data](https://github.com/Al-Cap/Final-Project/blob/main/code/Retrieving%2C%20Cleaning%20and%20Modeling.ipynb)	: Gets the data from an online source along with cleaning and modeling it
-	+ [EDA](https://github.com/Al-Cap/Final-Project/blob/main/code/EDA.ipynb)	: Explores the data
-	+ [Report](https://github.com/Al-Cap/Final-Project/blob/main/code/report.ipynb)	: This is the notebook submitted as part of the DATA601 Final Project
-- [Graphs](https://github.com/Al-Cap/Final-Project/tree/main/graphs)	: Graphs used in project
+	+ [Getting Data](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/code/Retrieving%2C%20Cleaning%20and%20Modeling.ipynb)	: Gets the data from an online source along with cleaning and modeling it
+	+ [EDA](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/code/EDA.ipynb)	: Explores the data
+	+ [Report](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/code/report.ipynb)	: This is the notebook submitted as part of the DATA601 Final Project
+- [Graphs](https://github.com/Al-Cap/Life-Span-of-Satellite/tree/main/graphs)	: Graphs used in project
 - Extra:
-	+ [Utils](https://github.com/Al-Cap/Final-Project/blob/main/code/utils.py)	: Function used for regression graph.
+	+ [Utils](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/code/utils.py)	: Function used for regression graph.
 
 # ReadMe Navigation
 
-[Data](https://github.com/Al-Cap/Final-Project#data) - [Modeling](https://github.com/Al-Cap/Final-Project#modeling) - [Results](https://github.com/Al-Cap/Final-Project#results) - [Future](https://github.com/Al-Cap/Final-Project#future) - [Project Info](https://github.com/Al-Cap/Final-Project#project-info)
+[Data](https://github.com/Al-Cap/Life-Span-of-Satellite#data) - [Modeling](https://github.com/Al-Cap/Life-Span-of-Satellite#modeling) - [Results](https://github.com/Al-Cap/Life-Span-of-Satellite#results) - [Future](https://github.com/Al-Cap/Life-Span-of-Satellite#future) - [Project Info](https://github.com/Al-Cap/Life-Span-of-Satellite#project-info)
 
 # Data
 
