@@ -20,7 +20,7 @@ Satellites are a major importance to countries and especially people. Satellites
 # Table of Contents
 
 - [Data](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/data)	: Includes data, both original and modified
-- Notebook
+- Notebook:
 	+ [Getting Data](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/code/Retrieving%2C%20Cleaning%20and%20Modeling.ipynb)	: Gets the data from an online source along with cleaning and modeling it
 	+ [EDA](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/code/EDA.ipynb)	: Explores the data
 	+ [Report](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/code/report.ipynb)	: This is the notebook submitted as part of the DATA601 Final Project
