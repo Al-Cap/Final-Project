@@ -38,11 +38,23 @@ This is a dataset obtained from [https://www.ucsusa.org/resources/satellite-data
 
 # Modeling
 
-The data used to determine the life span of satellites was the data from columns: 'Expected Lifetime' and 'Year of Launch.' These two columns provided the data to see the life span of the satellites. Life span was determine with linear regression. 
+The data used to determine the life span of satellites was the data from columns: 'Expected Lifetime' and 'Year of Launch.' These two columns provided the data to see the life span of the satellites. Life span was determine with linear regression. The linear regression can be seen in the graph which mirrors the ordinary least squares regression table.
+
+![predicted.png](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/graphs/predicted.png)
+
+Linear regression is further shown in a modified version of the ordinary least squares regression table seen in the graph.
+
+![predicted_mod.png](https://github.com/Al-Cap/Life-Span-of-Satellite/blob/main/graphs/predicted_mod.png)
 
 # Results
 
+The results of the linear regression show that the first regression model had a R-squared of 0.001 which does show a linear regression, however small.
+
+The second regression model outputs a high R-squared being close to 1 which is fine but due to limitations is not a very accurate linear regression. 
+
 # Future
+
+This project can be improved upon in the future by adding additional parameters to determine the linear regression of the life span. These additional parameters can be anything from orbit of the satellite to the materials or manufacturing processes of the satellite.
 
 # Project Info
 <pre>
